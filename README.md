@@ -1,6 +1,5 @@
 # dio-desafio-github
-repositorio do desafio 
-desafio feito durante o bootcamp de Git/GitHub
+Repositorio criado para o desafio feito durante o bootcamp de Git/GitHub da DIO!
 
 
 ##links uteis
